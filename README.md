@@ -1,7 +1,7 @@
 # Oh, hello there! ✨ I'm Shabnam ✨ 
 ## Your friendly neighborhood Data Detective 🕵️‍♂️
 
-### In the labyrinth of numbers, I find myself a solitary wanderer, tracing the silken threads of data with a curious mind. Each figure, a whisper from the unknown, each analysis, a step deeper into the heart of understanding. My work, akin to composing a symphony from scattered notes, seeks harmony in the cacophony of information. In this pursuit, I find not just answers, but a poetic truth in the rhythm of data, a narrative woven from the fabric of facts and figures, where each statistic tells a story, each analysis paints a picture of a world unseen yet deeply felt.
+### In the labyrinth of numbers, I find myself a solitary wanderer, tracing the silken threads of data with a curious mind. Each figure, a whisper from the unknown, each analysis, a step deeper into the heart of understanding. In my work, I seek a symphony in data's varied notes. It's not just about finding answers, but uncovering a deeper narrative in the numbers. Each data point tells its own story, painting a vivid picture of the unseen, deeply felt world.
 <br>
 
 Virginia Woolf, A Room of One’s Own:  
@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ## Welcome to my GitHub account 🤝🏼 
 -->
+
+Contact me at: [your-email@example.com](mailto:shabnam.dadashova.as@gmail.com)
+
