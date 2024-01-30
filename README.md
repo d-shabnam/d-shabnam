@@ -1,8 +1,12 @@
-## Oh, hello there! ✨ I'm Shabnam ✨
-### Welcome to my GitHub account 🤝🏼
+# Oh, hello there! ✨ I'm Shabnam ✨
+## Welcome to my GitHub account 🤝🏼
+### In the labyrinth of numbers, I find myself a solitary wanderer, tracing the silken threads of data with a curious mind. Each figure, a whisper from the unknown, each analysis, a step deeper into the heart of understanding. My work, akin to composing a symphony from scattered notes, seeks harmony in the cacophony of information. In this pursuit, I find not just answers, but a poetic truth in the rhythm of data, a narrative woven from the fabric of facts and figures, where each statistic tells a story, each analysis paints a picture of a world unseen yet deeply felt.
+<br>
 
-Benjamin Franklin said:
-> Three may keep a secret if two of them are dead.
+Virginia Woolf, A Room of One’s Own:  
+> Lock up your libraries if you like; but there is no gate, no lock, no bolt that you can set upon the freedom of my mind.
+<br>
+
 <!--
 **d-shabnam/d-shabnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
