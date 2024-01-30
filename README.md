@@ -1,5 +1,6 @@
-# Oh, hello there! ✨ I'm Shabnam ✨
-## Welcome to my GitHub account 🤝🏼
+# Oh, hello there! ✨ I'm Shabnam ✨ 
+## Your friendly neighborhood Data Detective 🕵️‍♂️
+
 ### In the labyrinth of numbers, I find myself a solitary wanderer, tracing the silken threads of data with a curious mind. Each figure, a whisper from the unknown, each analysis, a step deeper into the heart of understanding. My work, akin to composing a symphony from scattered notes, seeks harmony in the cacophony of information. In this pursuit, I find not just answers, but a poetic truth in the rhythm of data, a narrative woven from the fabric of facts and figures, where each statistic tells a story, each analysis paints a picture of a world unseen yet deeply felt.
 <br>
 
@@ -20,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## Welcome to my GitHub account 🤝🏼 
 -->
