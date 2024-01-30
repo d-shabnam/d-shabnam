@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 ## Welcome to my GitHub account 🤝🏼 
 -->
 
-Contact me at: [your-email@example.com](mailto:shabnam.dadashova.as@gmail.com)
+Contact me at: [shabnam.dadashova.as@gmail.com](mailto:shabnam.dadashova.as@gmail.com)
 
